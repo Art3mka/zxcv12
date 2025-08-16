@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zxcv12/static/css/main.8e7ecd3c.css",
+    "main.js": "/zxcv12/static/js/main.0761fdcc.js",
+    "index.html": "/zxcv12/index.html",
+    "main.8e7ecd3c.css.map": "/zxcv12/static/css/main.8e7ecd3c.css.map",
+    "main.0761fdcc.js.map": "/zxcv12/static/js/main.0761fdcc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e7ecd3c.css",
+    "static/js/main.0761fdcc.js"
+  ]
+}
